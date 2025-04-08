@@ -13,7 +13,8 @@ This is a simple **Online Markdown Editor** built using HTML, CSS, JavaScript, a
 
 ## Demo
 
-Check out the live demo (if available) of the Markdown Editor.
+![image](https://github.com/user-attachments/assets/8cf8b130-fd45-4348-8283-d6825f62df3a)
+
 
 ## Installation
 
